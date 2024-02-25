@@ -14,7 +14,7 @@
 - `Visualizations`: Screenshots and interactive charts from Google Data Studio illustrating key findings.
 - `reports`: Comprehensive analysis reports and summaries, including actionable insights for operational improvement.
 
-- ## Tools Used
+  ## Tools Used
 - **Google Data Studio**: For creating dynamic, interactive visualizations and reports.
 - **Excel**: Utilized for initial data cleaning and preprocessing before analysis.
 
